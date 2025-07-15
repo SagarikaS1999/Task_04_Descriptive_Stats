@@ -1,0 +1,364 @@
+analysis_type,group_info,column_name,metric,value
+Dataset_Info,,BASIC,total_rows,27304
+Dataset_Info,,BASIC,total_columns,47
+Overall,,id,total_count,27304
+Overall,,id,non_null_count,27304
+Overall,,id,unique_count,27304
+Overall,,id,most_frequent_1,cc46051622b8a9c1b883a3bbf12c640b12ac1cbdc7f48a773b6cc2a65f03aa2d:1
+Overall,,id,most_frequent_2,0e3db0c35a290c6df3b737d15882846c108cc80a9b7e5ca64a0129d4e3cd3ad7:1
+Overall,,id,most_frequent_3,256905919085d2946d5d187abc6cbe81a8abe3384793b362fa6aa4144bf42776:1
+Overall,,id,most_frequent_4,a461b32b31e72b222df7fdda0a8e68b0092e31deda33a8652eb443459546a4c4:1
+Overall,,id,most_frequent_5,ca2795ec79d62adc1fff06c4d3bc9da0bbc899e32c9b218798ac62a0ceae19dc:1
+Overall,,url,total_count,27304
+Overall,,url,non_null_count,27304
+Overall,,url,unique_count,27304
+Overall,,url,most_frequent_1,f70a206472e9deaf6e313297c1efb891729ced346a0aeb34e16935d78f74b937:1
+Overall,,url,most_frequent_2,a1962f54943732a0dc006c33b4b6f5764c7085a1282a59439b891ee0eb59a0dc:1
+Overall,,url,most_frequent_3,4ddbbdb7f4d8ef62fccf3ed20c993bb665b8620fedb089e81b43c0c7bc0c613e:1
+Overall,,url,most_frequent_4,c7e729c427e714baf06d88a2856a1be07d4ff52e1e633412ce15b0160e8f6c38:1
+Overall,,url,most_frequent_5,c589bd751d7e1d275901b184087716d3155a582b16430810211e1344d3ad2785:1
+Overall,,source,total_count,27304
+Overall,,source,non_null_count,27304
+Overall,,source,unique_count,14
+Overall,,source,most_frequent_1,Twitter Web App:14930
+Overall,,source,most_frequent_2,Twitter for iPhone:8494
+Overall,,source,most_frequent_3,Sprout Social:2933
+Overall,,source,most_frequent_4,Twitter Media Studio:499
+Overall,,source,most_frequent_5,Twitter for iPad:266
+Overall,,retweetCount,total_count,27304
+Overall,,retweetCount,non_null_count,27304
+Overall,,retweetCount,mean,1322.0551933782597
+Overall,,retweetCount,min,0.0
+Overall,,retweetCount,max,144615.0
+Overall,,retweetCount,std,3405.0042401645187
+Overall,,replyCount,total_count,27304
+Overall,,replyCount,non_null_count,27304
+Overall,,replyCount,mean,1063.7850131848813
+Overall,,replyCount,min,0.0
+Overall,,replyCount,max,121270.0
+Overall,,replyCount,std,3174.981654139348
+Overall,,likeCount,total_count,27304
+Overall,,likeCount,non_null_count,27304
+Overall,,likeCount,mean,6913.69282888954
+Overall,,likeCount,min,0.0
+Overall,,likeCount,max,915221.0
+Overall,,likeCount,std,21590.307989209447
+Overall,,quoteCount,total_count,27304
+Overall,,quoteCount,non_null_count,27304
+Overall,,quoteCount,mean,128.08156314093173
+Overall,,quoteCount,min,0.0
+Overall,,quoteCount,max,123320.0
+Overall,,quoteCount,std,1131.5334680019284
+Overall,,viewCount,total_count,27304
+Overall,,viewCount,non_null_count,27304
+Overall,,viewCount,mean,507084.7318341635
+Overall,,viewCount,min,5.0
+Overall,,viewCount,max,333502775.0
+Overall,,viewCount,std,3212173.986296655
+Overall,,createdAt,total_count,27304
+Overall,,createdAt,non_null_count,27304
+Overall,,createdAt,unique_count,27014
+Overall,,createdAt,most_frequent_1,2023-10-06 04:55:21:4
+Overall,,createdAt,most_frequent_2,2024-05-28 17:19:24:4
+Overall,,createdAt,most_frequent_3,2024-08-30 03:04:08:4
+Overall,,createdAt,most_frequent_4,2023-09-08 16:19:09:3
+Overall,,createdAt,most_frequent_5,2023-09-08 16:19:04:3
+Overall,,lang,total_count,27304
+Overall,,lang,non_null_count,27304
+Overall,,lang,unique_count,12
+Overall,,lang,most_frequent_1,en:27281
+Overall,,lang,most_frequent_2,fr:6
+Overall,,lang,most_frequent_3,tl:4
+Overall,,lang,most_frequent_4,es:3
+Overall,,lang,most_frequent_5,da:3
+Overall,,bookmarkCount,total_count,27304
+Overall,,bookmarkCount,non_null_count,27304
+Overall,,bookmarkCount,mean,136.21352182830356
+Overall,,bookmarkCount,min,0.0
+Overall,,bookmarkCount,max,42693.0
+Overall,,bookmarkCount,std,712.5802944831519
+Overall,,isReply,total_count,27304
+Overall,,isReply,non_null_count,27304
+Overall,,isReply,unique_count,2
+Overall,,isReply,most_frequent_1,False:23930
+Overall,,isReply,most_frequent_2,True:3374
+Overall,,isRetweet,total_count,27304
+Overall,,isRetweet,non_null_count,27304
+Overall,,isRetweet,unique_count,1
+Overall,,isRetweet,most_frequent_1,False:27304
+Overall,,isQuote,total_count,27304
+Overall,,isQuote,non_null_count,27304
+Overall,,isQuote,unique_count,2
+Overall,,isQuote,most_frequent_1,False:24064
+Overall,,isQuote,most_frequent_2,True:3240
+Overall,,isConversationControlled,total_count,27304
+Overall,,isConversationControlled,non_null_count,27304
+Overall,,isConversationControlled,unique_count,2
+Overall,,isConversationControlled,most_frequent_1,False:27296
+Overall,,isConversationControlled,most_frequent_2,True:8
+Overall,,quoteId,total_count,27304
+Overall,,quoteId,non_null_count,3287
+Overall,,quoteId,unique_count,3159
+Overall,,quoteId,most_frequent_1,1.711730672279122e+18:5
+Overall,,quoteId,most_frequent_2,1.7659161677373445e+18:5
+Overall,,quoteId,most_frequent_3,1.7731398481085975e+18:4
+Overall,,quoteId,most_frequent_4,1.7148274152418675e+18:3
+Overall,,quoteId,most_frequent_5,1.7352284527672366e+18:3
+Overall,,inReplyToId,total_count,27304
+Overall,,inReplyToId,non_null_count,3345
+Overall,,inReplyToId,unique_count,3309
+Overall,,inReplyToId,most_frequent_1,1.7444996006715807e+18:6
+Overall,,inReplyToId,most_frequent_2,1.7289763100040315e+18:3
+Overall,,inReplyToId,most_frequent_3,1.7617956312223255e+18:3
+Overall,,inReplyToId,most_frequent_4,1.789104982999876e+18:3
+Overall,,inReplyToId,most_frequent_5,1.704189712754234e+18:2
+Overall,,month_year,total_count,27304
+Overall,,month_year,non_null_count,27304
+Overall,,month_year,unique_count,15
+Overall,,month_year,most_frequent_1,2024-10:3586
+Overall,,month_year,most_frequent_2,2024-09:2856
+Overall,,month_year,most_frequent_3,2024-08:2647
+Overall,,month_year,most_frequent_4,2023-09:2336
+Overall,,month_year,most_frequent_5,2023-11:2334
+Overall,,illuminating_scored_message,total_count,27304
+Overall,,illuminating_scored_message,non_null_count,27304
+Overall,,illuminating_scored_message,unique_count,27136
+Overall,,illuminating_scored_message,most_frequent_1,36cb7d55fcf85362ca03f624c2f574f1f55f89db559b17da084df6e643afe5cd:21
+Overall,,illuminating_scored_message,most_frequent_2,1d2cc25fad0d66a295d4fafdd590d71d0e027a1d2a58cf5db0c58ba09b930e04:18
+Overall,,illuminating_scored_message,most_frequent_3,e85b31153cfcc753f8657eb033c8e8fb03f6da4c384da1d4e563eef696f6e7a0:10
+Overall,,illuminating_scored_message,most_frequent_4,c3adbeed65888d91e375c51dc9cc936d137e35fc360ebed1763b5826903046f9:7
+Overall,,illuminating_scored_message,most_frequent_5,de3c2805b2cea354c20c7fe117fc9c1885c9aea23ca9d1623d93d7c56df7a9bb:4
+Overall,,election_integrity_Truth_illuminating,total_count,27304
+Overall,,election_integrity_Truth_illuminating,non_null_count,26034
+Overall,,election_integrity_Truth_illuminating,mean,0.03714373511561804
+Overall,,election_integrity_Truth_illuminating,min,0.0
+Overall,,election_integrity_Truth_illuminating,max,1.0
+Overall,,election_integrity_Truth_illuminating,std,0.18911756093783608
+Overall,,advocacy_msg_type_illuminating,total_count,27304
+Overall,,advocacy_msg_type_illuminating,non_null_count,26034
+Overall,,advocacy_msg_type_illuminating,mean,0.5636859491434278
+Overall,,advocacy_msg_type_illuminating,min,0.0
+Overall,,advocacy_msg_type_illuminating,max,1.0
+Overall,,advocacy_msg_type_illuminating,std,0.49593703963228036
+Overall,,issue_msg_type_illuminating,total_count,27304
+Overall,,issue_msg_type_illuminating,non_null_count,26034
+Overall,,issue_msg_type_illuminating,mean,0.507682261657832
+Overall,,issue_msg_type_illuminating,min,0.0
+Overall,,issue_msg_type_illuminating,max,1.0
+Overall,,issue_msg_type_illuminating,std,0.4999505813425477
+Overall,,attack_msg_type_illuminating,total_count,27304
+Overall,,attack_msg_type_illuminating,non_null_count,26034
+Overall,,attack_msg_type_illuminating,mean,0.3075977567795959
+Overall,,attack_msg_type_illuminating,min,0.0
+Overall,,attack_msg_type_illuminating,max,1.0
+Overall,,attack_msg_type_illuminating,std,0.46150791760416376
+Overall,,image_msg_type_illuminating,total_count,27304
+Overall,,image_msg_type_illuminating,non_null_count,26034
+Overall,,image_msg_type_illuminating,mean,0.22643466236460014
+Overall,,image_msg_type_illuminating,min,0.0
+Overall,,image_msg_type_illuminating,max,1.0
+Overall,,image_msg_type_illuminating,std,0.4185316409839206
+Overall,,cta_msg_type_illuminating,total_count,27304
+Overall,,cta_msg_type_illuminating,non_null_count,26034
+Overall,,cta_msg_type_illuminating,mean,0.10966428516555274
+Overall,,cta_msg_type_illuminating,min,0.0
+Overall,,cta_msg_type_illuminating,max,1.0
+Overall,,cta_msg_type_illuminating,std,0.31247684757947275
+Overall,,engagement_cta_subtype_illuminating,total_count,27304
+Overall,,engagement_cta_subtype_illuminating,non_null_count,26034
+Overall,,engagement_cta_subtype_illuminating,mean,0.0669124990397173
+Overall,,engagement_cta_subtype_illuminating,min,0.0
+Overall,,engagement_cta_subtype_illuminating,max,1.0
+Overall,,engagement_cta_subtype_illuminating,std,0.24987519849406606
+Overall,,fundraising_cta_subtype_illuminating,total_count,27304
+Overall,,fundraising_cta_subtype_illuminating,non_null_count,26034
+Overall,,fundraising_cta_subtype_illuminating,mean,0.007874318199277867
+Overall,,fundraising_cta_subtype_illuminating,min,0.0
+Overall,,fundraising_cta_subtype_illuminating,max,1.0
+Overall,,fundraising_cta_subtype_illuminating,std,0.08838898916084756
+Overall,,voting_cta_subtype_illuminating,total_count,27304
+Overall,,voting_cta_subtype_illuminating,non_null_count,26034
+Overall,,voting_cta_subtype_illuminating,mean,0.016785741722363065
+Overall,,voting_cta_subtype_illuminating,min,0.0
+Overall,,voting_cta_subtype_illuminating,max,1.0
+Overall,,voting_cta_subtype_illuminating,std,0.1284702866854094
+Overall,,covid_topic_illuminating,total_count,27304
+Overall,,covid_topic_illuminating,non_null_count,26034
+Overall,,covid_topic_illuminating,mean,0.0076054390412537455
+Overall,,covid_topic_illuminating,min,0.0
+Overall,,covid_topic_illuminating,max,1.0
+Overall,,covid_topic_illuminating,std,0.08687857194055204
+Overall,,economy_topic_illuminating,total_count,27304
+Overall,,economy_topic_illuminating,non_null_count,26034
+Overall,,economy_topic_illuminating,mean,0.16021356687408772
+Overall,,economy_topic_illuminating,min,0.0
+Overall,,economy_topic_illuminating,max,1.0
+Overall,,economy_topic_illuminating,std,0.3668110523395825
+Overall,,education_topic_illuminating,total_count,27304
+Overall,,education_topic_illuminating,non_null_count,26034
+Overall,,education_topic_illuminating,mean,0.01843742797879696
+Overall,,education_topic_illuminating,min,0.0
+Overall,,education_topic_illuminating,max,1.0
+Overall,,education_topic_illuminating,std,0.13452949268938846
+Overall,,environment_topic_illuminating,total_count,27304
+Overall,,environment_topic_illuminating,non_null_count,26034
+Overall,,environment_topic_illuminating,mean,0.028539602058846123
+Overall,,environment_topic_illuminating,min,0.0
+Overall,,environment_topic_illuminating,max,1.0
+Overall,,environment_topic_illuminating,std,0.16651173583618067
+Overall,,foreign_policy_topic_illuminating,total_count,27304
+Overall,,foreign_policy_topic_illuminating,non_null_count,26034
+Overall,,foreign_policy_topic_illuminating,mean,0.042252439118076364
+Overall,,foreign_policy_topic_illuminating,min,0.0
+Overall,,foreign_policy_topic_illuminating,max,1.0
+Overall,,foreign_policy_topic_illuminating,std,0.20116839951473553
+Overall,,governance_topic_illuminating,total_count,27304
+Overall,,governance_topic_illuminating,non_null_count,26034
+Overall,,governance_topic_illuminating,mean,0.022969962356917877
+Overall,,governance_topic_illuminating,min,0.0
+Overall,,governance_topic_illuminating,max,1.0
+Overall,,governance_topic_illuminating,std,0.1498105645777889
+Overall,,health_topic_illuminating,total_count,27304
+Overall,,health_topic_illuminating,non_null_count,26034
+Overall,,health_topic_illuminating,mean,0.05565798571099332
+Overall,,health_topic_illuminating,min,0.0
+Overall,,health_topic_illuminating,max,1.0
+Overall,,health_topic_illuminating,std,0.2292644615290389
+Overall,,immigration_topic_illuminating,total_count,27304
+Overall,,immigration_topic_illuminating,non_null_count,26034
+Overall,,immigration_topic_illuminating,mean,0.06529922409157256
+Overall,,immigration_topic_illuminating,min,0.0
+Overall,,immigration_topic_illuminating,max,1.0
+Overall,,immigration_topic_illuminating,std,0.2470578473918854
+Overall,,lgbtq_issues_topic_illuminating,total_count,27304
+Overall,,lgbtq_issues_topic_illuminating,non_null_count,26034
+Overall,,lgbtq_issues_topic_illuminating,mean,0.0030729046631328264
+Overall,,lgbtq_issues_topic_illuminating,min,0.0
+Overall,,lgbtq_issues_topic_illuminating,max,1.0
+Overall,,lgbtq_issues_topic_illuminating,std,0.05534961243011968
+Overall,,military_topic_illuminating,total_count,27304
+Overall,,military_topic_illuminating,non_null_count,26034
+Overall,,military_topic_illuminating,mean,0.010985634170699855
+Overall,,military_topic_illuminating,min,0.0
+Overall,,military_topic_illuminating,max,1.0
+Overall,,military_topic_illuminating,std,0.10423707289416255
+Overall,,race_and_ethnicity_topic_illuminating,total_count,27304
+Overall,,race_and_ethnicity_topic_illuminating,non_null_count,26034
+Overall,,race_and_ethnicity_topic_illuminating,mean,0.015402934623953292
+Overall,,race_and_ethnicity_topic_illuminating,min,0.0
+Overall,,race_and_ethnicity_topic_illuminating,max,1.0
+Overall,,race_and_ethnicity_topic_illuminating,std,0.12315139782021392
+Overall,,safety_topic_illuminating,total_count,27304
+Overall,,safety_topic_illuminating,non_null_count,26034
+Overall,,safety_topic_illuminating,mean,0.03760467081508796
+Overall,,safety_topic_illuminating,min,0.0
+Overall,,safety_topic_illuminating,max,1.0
+Overall,,safety_topic_illuminating,std,0.19024181908327997
+Overall,,social_and_cultural_topic_illuminating,total_count,27304
+Overall,,social_and_cultural_topic_illuminating,non_null_count,26034
+Overall,,social_and_cultural_topic_illuminating,mean,0.05197050011523392
+Overall,,social_and_cultural_topic_illuminating,min,0.0
+Overall,,social_and_cultural_topic_illuminating,max,1.0
+Overall,,social_and_cultural_topic_illuminating,std,0.22197175454151633
+Overall,,technology_and_privacy_topic_illuminating,total_count,27304
+Overall,,technology_and_privacy_topic_illuminating,non_null_count,26034
+Overall,,technology_and_privacy_topic_illuminating,mean,0.0020357993393254974
+Overall,,technology_and_privacy_topic_illuminating,min,0.0
+Overall,,technology_and_privacy_topic_illuminating,max,1.0
+Overall,,technology_and_privacy_topic_illuminating,std,0.04507474794044172
+Overall,,womens_issue_topic_illuminating,total_count,27304
+Overall,,womens_issue_topic_illuminating,non_null_count,26034
+Overall,,womens_issue_topic_illuminating,mean,0.02331566413152032
+Overall,,womens_issue_topic_illuminating,min,0.0
+Overall,,womens_issue_topic_illuminating,max,1.0
+Overall,,womens_issue_topic_illuminating,std,0.15090698683369944
+Overall,,incivility_illuminating,total_count,27304
+Overall,,incivility_illuminating,non_null_count,26034
+Overall,,incivility_illuminating,mean,0.17857417223630637
+Overall,,incivility_illuminating,min,0.0
+Overall,,incivility_illuminating,max,1.0
+Overall,,incivility_illuminating,std,0.3830027047455516
+Overall,,scam_illuminating,total_count,27304
+Overall,,scam_illuminating,non_null_count,26034
+Overall,,scam_illuminating,mean,0.012368441269109626
+Overall,,scam_illuminating,min,0.0
+Overall,,scam_illuminating,max,1.0
+Overall,,scam_illuminating,std,0.1105257081389594
+Overall,,freefair_illuminating,total_count,27304
+Overall,,freefair_illuminating,non_null_count,27304
+Overall,,freefair_illuminating,mean,0.0014283621447406974
+Overall,,freefair_illuminating,min,0.0
+Overall,,freefair_illuminating,max,1.0
+Overall,,freefair_illuminating,std,0.037767369074478356
+Overall,,fraud_illuminating,total_count,27304
+Overall,,fraud_illuminating,non_null_count,27304
+Overall,,fraud_illuminating,mean,0.0027468502783474947
+Overall,,fraud_illuminating,min,0.0
+Overall,,fraud_illuminating,max,1.0
+Overall,,fraud_illuminating,std,0.052339329587953634
+Grouped_source,,GROUP_SUMMARY,num_groups,14
+Grouped_source,,GROUP_SUMMARY,group_size_min,1
+Grouped_source,,GROUP_SUMMARY,group_size_max,14930
+Grouped_source,,GROUP_SUMMARY,group_size_mean,1950.2857142857142
+Grouped_source,,TOP_GROUPS,top_group_1,source=Twitter Web App:14930
+Grouped_source,,TOP_GROUPS,top_group_2,source=Twitter for iPhone:8494
+Grouped_source,,TOP_GROUPS,top_group_3,source=Sprout Social:2933
+Grouped_source,,TOP_GROUPS,top_group_4,source=Twitter Media Studio:499
+Grouped_source,,TOP_GROUPS,top_group_5,source=Twitter for iPad:266
+Grouped_source,,retweetCount,group_means_count,14
+Grouped_source,,retweetCount,group_means_mean,724.0689118695133
+Grouped_source,,retweetCount,group_means_min,10.6
+Grouped_source,,retweetCount,group_means_max,3524.793385612001
+Grouped_source,,replyCount,group_means_count,14
+Grouped_source,,replyCount,group_means_mean,643.9723821224337
+Grouped_source,,replyCount,group_means_min,8.4
+Grouped_source,,replyCount,group_means_max,5186.272076372315
+Grouped_source,,likeCount,group_means_count,14
+Grouped_source,,likeCount,group_means_mean,3679.9994970256785
+Grouped_source,,likeCount,group_means_min,63.8
+Grouped_source,,likeCount,group_means_max,18173.406409819298
+Grouped_source,,quoteCount,group_means_count,14
+Grouped_source,,quoteCount,group_means_mean,75.14503482749085
+Grouped_source,,quoteCount,group_means_min,0.4
+Grouped_source,,quoteCount,group_means_max,426.1200136379134
+Grouped_source,,viewCount,group_means_count,14
+Grouped_source,,viewCount,group_means_mean,273739.1809132582
+Grouped_source,,viewCount,group_means_min,12847.0
+Grouped_source,,viewCount,group_means_max,1501097.3088987386
+Grouped_source,,bookmarkCount,group_means_count,14
+Grouped_source,,bookmarkCount,group_means_mean,101.43289664042027
+Grouped_source,,bookmarkCount,group_means_min,0.4
+Grouped_source,,bookmarkCount,group_means_max,491.42857142857144
+Grouped_source + id,,GROUP_SUMMARY,num_groups,27304
+Grouped_source + id,,GROUP_SUMMARY,group_size_min,1
+Grouped_source + id,,GROUP_SUMMARY,group_size_max,1
+Grouped_source + id,,GROUP_SUMMARY,group_size_mean,1.0
+Grouped_source + id,,TOP_GROUPS,top_group_1,source=Twitter for iPhone | id=cc46051622b8a9c1b883a3bbf12c640b12ac1cbdc7f48a773b6cc2a65f03aa2d:1
+Grouped_source + id,,TOP_GROUPS,top_group_2,source=Twitter for iPhone | id=0e3db0c35a290c6df3b737d15882846c108cc80a9b7e5ca64a0129d4e3cd3ad7:1
+Grouped_source + id,,TOP_GROUPS,top_group_3,source=Twitter for iPhone | id=256905919085d2946d5d187abc6cbe81a8abe3384793b362fa6aa4144bf42776:1
+Grouped_source + id,,TOP_GROUPS,top_group_4,source=Twitter for iPhone | id=a461b32b31e72b222df7fdda0a8e68b0092e31deda33a8652eb443459546a4c4:1
+Grouped_source + id,,TOP_GROUPS,top_group_5,source=Twitter Web App | id=ca2795ec79d62adc1fff06c4d3bc9da0bbc899e32c9b218798ac62a0ceae19dc:1
+Grouped_source + id,,retweetCount,group_means_count,27304
+Grouped_source + id,,retweetCount,group_means_mean,1322.0551933782597
+Grouped_source + id,,retweetCount,group_means_min,0.0
+Grouped_source + id,,retweetCount,group_means_max,144615.0
+Grouped_source + id,,replyCount,group_means_count,27304
+Grouped_source + id,,replyCount,group_means_mean,1063.7850131848813
+Grouped_source + id,,replyCount,group_means_min,0.0
+Grouped_source + id,,replyCount,group_means_max,121270.0
+Grouped_source + id,,likeCount,group_means_count,27304
+Grouped_source + id,,likeCount,group_means_mean,6913.69282888954
+Grouped_source + id,,likeCount,group_means_min,0.0
+Grouped_source + id,,likeCount,group_means_max,915221.0
+Grouped_source + id,,quoteCount,group_means_count,27304
+Grouped_source + id,,quoteCount,group_means_mean,128.08156314093173
+Grouped_source + id,,quoteCount,group_means_min,0.0
+Grouped_source + id,,quoteCount,group_means_max,123320.0
+Grouped_source + id,,viewCount,group_means_count,27304
+Grouped_source + id,,viewCount,group_means_mean,507084.7318341635
+Grouped_source + id,,viewCount,group_means_min,5.0
+Grouped_source + id,,viewCount,group_means_max,333502775.0
+Grouped_source + id,,bookmarkCount,group_means_count,27304
+Grouped_source + id,,bookmarkCount,group_means_mean,136.21352182830356
+Grouped_source + id,,bookmarkCount,group_means_min,0.0
+Grouped_source + id,,bookmarkCount,group_means_max,42693.0
