@@ -1,0 +1,13 @@
+column,unique_count,top_value,top_frequency,missing_count,missing_percentage
+Facebook_Id,21,32fc18da91029ff09bf74fe9887eace6b5d2145809d583f696e344530508b064,9013,0,0.0
+post_id,19009,202cc020266f6ac23ec611b9f981df3748bd4a4abdf262a1f56e7abbc48c1dea,1,0,0.0
+Page Category,6,PERSON,9453,2472,13.004366352780261
+Page Admin Top Country,1,US,16280,2729,14.356357514861381
+Post Created,18951,2023-11-14 11:11:44 EST,2,0,0.0
+Post Created Date,425,2024-10-31,103,0,0.0
+Post Created Time,16102,19:42:00,7,0,0.0
+Type,9,Link,7404,2465,12.967541690778054
+Total Interactions,5665,15,115,0,0.0
+Video Share Status,3,owned,3100,15738,82.79236151296755
+Is Video Owner?,3,-,13280,2465,12.967541690778054
+Video Length,774,00:00:30,83,15738,82.79236151296755
