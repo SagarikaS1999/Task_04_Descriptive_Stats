@@ -1,0 +1,12 @@
+column,unique_count,most_frequent,most_frequent_count,total_records
+Facebook_Id,21,32fc18da91029ff09bf74fe9887eace6b5d2145809d583f696e344530508b064,9013,19009
+post_id,19009,202cc020266f6ac23ec611b9f981df3748bd4a4abdf262a1f56e7abbc48c1dea,1,19009
+Page Category,6,PERSON,9453,16537
+Page Admin Top Country,1,US,16280,16280
+Post Created,18951,2023-11-14 11:11:44 EST,2,19009
+Post Created Date,425,2024-10-31,103,19009
+Post Created Time,16102,19:42:00,7,19009
+Type,9,Link,7404,16544
+Video Share Status,3,owned,3100,3271
+Is Video Owner?,3,-,13280,16544
+Video Length,774,00:00:30,83,3271
