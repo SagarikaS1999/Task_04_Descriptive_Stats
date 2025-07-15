@@ -1,0 +1,11 @@
+column,unique_count,top_value,top_frequency,missing_count,missing_percentage
+page_id,4475,4d66f5853f0365dba032a87704a634f023d15babde973bb7a284ed8cd2707b2d,55503,0,0.0
+ad_id,246745,808105264f12fee56bafffa5f10d7e408b0d3d1a12ae96e07406ef785bbe5a05,1,0,0.0
+ad_creation_time,547,2024-10-27,8619,0,0.0
+bylines,3790,HARRIS FOR PRESIDENT,49788,1009,0.4089241929927658
+currency,18,USD,246599,0,0.0
+delivery_by_region,141122,{},30989,0,0.0
+demographic_distribution,215622,{},30989,0,0.0
+publisher_platforms,9,"['facebook', 'instagram']",214434,0,0.0
+illuminating_scored_message,26338,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,5972,0,0.0
+illuminating_mentions,278,[],73205,0,0.0
