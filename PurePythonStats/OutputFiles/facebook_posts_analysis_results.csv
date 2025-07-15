@@ -1,0 +1,403 @@
+analysis_type,group_info,column_name,metric,value
+Dataset_Info,,BASIC,total_rows,19009
+Dataset_Info,,BASIC,total_columns,56
+Overall,,Facebook_Id,total_count,19009
+Overall,,Facebook_Id,non_null_count,19009
+Overall,,Facebook_Id,unique_count,21
+Overall,,Facebook_Id,most_frequent_1,32fc18da91029ff09bf74fe9887eace6b5d2145809d583f696e344530508b064:9013
+Overall,,Facebook_Id,most_frequent_2,bfe51c6ac2cab17ba5c85883e76f61398031ed57e4cf62d19fd483548ebb904b:1431
+Overall,,Facebook_Id,most_frequent_3,ac24f31c4d4b3d5555065fa9558bdca4ab4b5e1379922875ae9e6e32f1d46d25:1231
+Overall,,Facebook_Id,most_frequent_4,7f5731ac8e6959576e781064b5fa76e059200cdfc3f4e0d7b68bc98792d2cf5b:1158
+Overall,,Facebook_Id,most_frequent_5,a3fa0d15dd83b910295d0b17f9d341e737eddcb8d9b8081758140584c710406e:1074
+Overall,,post_id,total_count,19009
+Overall,,post_id,non_null_count,19009
+Overall,,post_id,unique_count,19009
+Overall,,post_id,most_frequent_1,8570b69695e00d8f06b12398ed525497e1712b5369c6fc2138fe98f69811c138:1
+Overall,,post_id,most_frequent_2,41ec27cecd8af40007a9faf8c3e5c9225bcff0b8d58856563bbc9d59d7dbb6e6:1
+Overall,,post_id,most_frequent_3,1dcb5e00cd1c8d7ee141922f50f29e59e96328231b6937870e87029c97b26377:1
+Overall,,post_id,most_frequent_4,3e5e0a047865ab02fe0f49c343963239fe7774b63e8ab6001b6ec18f4d37eeac:1
+Overall,,post_id,most_frequent_5,b83adc0e8ac0aedd39f55b72d723729e114a83d41fd48b1b13c7ec782c9a0649:1
+Overall,,Page Category,total_count,19009
+Overall,,Page Category,non_null_count,16537
+Overall,,Page Category,unique_count,6
+Overall,,Page Category,most_frequent_1,PERSON:9453
+Overall,,Page Category,most_frequent_2,ACTOR:3304
+Overall,,Page Category,most_frequent_3,POLITICIAN:2595
+Overall,,Page Category,most_frequent_4,POLITICAL_CANDIDATE:1161
+Overall,,Page Category,most_frequent_5,ENTREPRENEUR:23
+Overall,,Page Admin Top Country,total_count,19009
+Overall,,Page Admin Top Country,non_null_count,16280
+Overall,,Page Admin Top Country,unique_count,1
+Overall,,Page Admin Top Country,most_frequent_1,US:16280
+Overall,,Post Created,total_count,19009
+Overall,,Post Created,non_null_count,19009
+Overall,,Post Created,unique_count,18951
+Overall,,Post Created,most_frequent_1,2023-11-14 11:11:44 EST:2
+Overall,,Post Created,most_frequent_2,2023-11-22 19:20:24 EST:2
+Overall,,Post Created,most_frequent_3,2023-12-22 11:22:14 EST:2
+Overall,,Post Created,most_frequent_4,2024-01-06 18:47:00 EST:2
+Overall,,Post Created,most_frequent_5,2024-01-30 12:28:10 EST:2
+Overall,,Post Created Date,total_count,19009
+Overall,,Post Created Date,non_null_count,19009
+Overall,,Post Created Date,unique_count,425
+Overall,,Post Created Date,most_frequent_1,2024-10-31:103
+Overall,,Post Created Date,most_frequent_2,2024-01-10:102
+Overall,,Post Created Date,most_frequent_3,2024-01-15:96
+Overall,,Post Created Date,most_frequent_4,2024-01-06:95
+Overall,,Post Created Date,most_frequent_5,2024-10-30:94
+Overall,,Post Created Time,total_count,19009
+Overall,,Post Created Time,non_null_count,19009
+Overall,,Post Created Time,unique_count,16102
+Overall,,Post Created Time,most_frequent_1,19:42:00:7
+Overall,,Post Created Time,most_frequent_2,17:30:01:7
+Overall,,Post Created Time,most_frequent_3,19:30:01:6
+Overall,,Post Created Time,most_frequent_4,15:40:00:6
+Overall,,Post Created Time,most_frequent_5,12:00:16:6
+Overall,,Type,total_count,19009
+Overall,,Type,non_null_count,16544
+Overall,,Type,unique_count,9
+Overall,,Type,most_frequent_1,Link:7404
+Overall,,Type,most_frequent_2,Photo:3820
+Overall,,Type,most_frequent_3,Native Video:2931
+Overall,,Type,most_frequent_4,Status:1387
+Overall,,Type,most_frequent_5,YouTube:353
+Overall,,Total Interactions,total_count,19009
+Overall,,Total Interactions,non_null_count,19009
+Overall,,Total Interactions,mean,2210.154813168496
+Overall,,Total Interactions,min,0.0
+Overall,,Total Interactions,max,470087.0
+Overall,,Total Interactions,std,13066.622356917262
+Overall,,Likes,total_count,19009
+Overall,,Likes,non_null_count,19009
+Overall,,Likes,mean,2377.6954074385817
+Overall,,Likes,min,0.0
+Overall,,Likes,max,351979.0
+Overall,,Likes,std,11253.469668562248
+Overall,,Comments,total_count,19009
+Overall,,Comments,non_null_count,19009
+Overall,,Comments,mean,901.583197432795
+Overall,,Comments,min,0.0
+Overall,,Comments,max,93872.0
+Overall,,Comments,std,3681.980096241411
+Overall,,Shares,total_count,19009
+Overall,,Shares,non_null_count,19009
+Overall,,Shares,mean,320.53895523173236
+Overall,,Shares,min,0.0
+Overall,,Shares,max,76150.0
+Overall,,Shares,std,1722.1598787908092
+Overall,,Love,total_count,19009
+Overall,,Love,non_null_count,19009
+Overall,,Love,mean,413.87732126887266
+Overall,,Love,min,0.0
+Overall,,Love,max,244482.0
+Overall,,Love,std,3730.940449783579
+Overall,,Wow,total_count,19009
+Overall,,Wow,non_null_count,19009
+Overall,,Wow,mean,5.8683255300120996
+Overall,,Wow,min,0.0
+Overall,,Wow,max,4345.0
+Overall,,Wow,std,52.946978621835086
+Overall,,Haha,total_count,19009
+Overall,,Haha,non_null_count,19009
+Overall,,Haha,mean,105.71971171550318
+Overall,,Haha,min,0.0
+Overall,,Haha,max,99276.0
+Overall,,Haha,std,942.034248188069
+Overall,,Sad,total_count,19009
+Overall,,Sad,non_null_count,19009
+Overall,,Sad,mean,10.172181598190331
+Overall,,Sad,min,0.0
+Overall,,Sad,max,56111.0
+Overall,,Sad,std,418.3250070508284
+Overall,,Angry,total_count,19009
+Overall,,Angry,non_null_count,19009
+Overall,,Angry,mean,20.05550002630333
+Overall,,Angry,min,0.0
+Overall,,Angry,max,11814.0
+Overall,,Angry,std,156.02008883853503
+Overall,,Care,total_count,19009
+Overall,,Care,non_null_count,19009
+Overall,,Care,mean,34.92903361565574
+Overall,,Care,min,0.0
+Overall,,Care,max,85236.0
+Overall,,Care,std,790.1032133297068
+Overall,,Video Share Status,total_count,19009
+Overall,,Video Share Status,non_null_count,3271
+Overall,,Video Share Status,unique_count,3
+Overall,,Video Share Status,most_frequent_1,owned:3100
+Overall,,Video Share Status,most_frequent_2,share:99
+Overall,,Video Share Status,most_frequent_3,crosspost:72
+Overall,,Is Video Owner?,total_count,19009
+Overall,,Is Video Owner?,non_null_count,16544
+Overall,,Is Video Owner?,unique_count,3
+Overall,,Is Video Owner?,most_frequent_1,-:13280
+Overall,,Is Video Owner?,most_frequent_2,Yes:3181
+Overall,,Is Video Owner?,most_frequent_3,No:83
+Overall,,Post Views,total_count,19009
+Overall,,Post Views,non_null_count,16544
+Overall,,Post Views,mean,6485.058510638298
+Overall,,Post Views,min,0.0
+Overall,,Post Views,max,4276477.0
+Overall,,Post Views,std,90392.95844483376
+Overall,,Total Views,total_count,19009
+Overall,,Total Views,non_null_count,16544
+Overall,,Total Views,mean,7461.847014023211
+Overall,,Total Views,min,0.0
+Overall,,Total Views,max,4462155.0
+Overall,,Total Views,std,95976.27884773155
+Overall,,Total Views For All Crossposts,total_count,19009
+Overall,,Total Views For All Crossposts,non_null_count,16544
+Overall,,Total Views For All Crossposts,mean,3555.9379835589943
+Overall,,Total Views For All Crossposts,min,0.0
+Overall,,Total Views For All Crossposts,max,4499458.0
+Overall,,Total Views For All Crossposts,std,88094.04831888726
+Overall,,Video Length,total_count,19009
+Overall,,Video Length,non_null_count,3271
+Overall,,Video Length,unique_count,774
+Overall,,Video Length,most_frequent_1,00:00:30:83
+Overall,,Video Length,most_frequent_2,00:01:00:50
+Overall,,Video Length,most_frequent_3,00:00:59:37
+Overall,,Video Length,most_frequent_4,00:00:37:33
+Overall,,Video Length,most_frequent_5,00:00:45:32
+Overall,,Sponsor Id,total_count,19009
+Overall,,Sponsor Id,non_null_count,0
+Overall,,Sponsor Name,total_count,19009
+Overall,,Sponsor Name,non_null_count,0
+Overall,,Sponsor Category,total_count,19009
+Overall,,Sponsor Category,non_null_count,0
+Overall,,Overperforming Score,total_count,19009
+Overall,,Overperforming Score,non_null_count,16544
+Overall,,Overperforming Score,mean,-2.744160420696325
+Overall,,Overperforming Score,min,-198.75
+Overall,,Overperforming Score,max,246.78
+Overall,,Overperforming Score,std,7.808476956626709
+Overall,,illuminating_scored_messageelection_integrity_Truth_illuminating,total_count,19009
+Overall,,illuminating_scored_messageelection_integrity_Truth_illuminating,non_null_count,0
+Overall,,advocacy_msg_type_illuminating,total_count,19009
+Overall,,advocacy_msg_type_illuminating,non_null_count,19009
+Overall,,advocacy_msg_type_illuminating,mean,0.549266137092956
+Overall,,advocacy_msg_type_illuminating,min,0.0
+Overall,,advocacy_msg_type_illuminating,max,1.0
+Overall,,advocacy_msg_type_illuminating,std,0.4975800160795739
+Overall,,issue_msg_type_illuminating,total_count,19009
+Overall,,issue_msg_type_illuminating,non_null_count,19009
+Overall,,issue_msg_type_illuminating,mean,0.4603082750276185
+Overall,,issue_msg_type_illuminating,min,0.0
+Overall,,issue_msg_type_illuminating,max,1.0
+Overall,,issue_msg_type_illuminating,std,0.498435187805786
+Overall,,attack_msg_type_illuminating,total_count,19009
+Overall,,attack_msg_type_illuminating,non_null_count,19009
+Overall,,attack_msg_type_illuminating,mean,0.2166868325530012
+Overall,,attack_msg_type_illuminating,min,0.0
+Overall,,attack_msg_type_illuminating,max,1.0
+Overall,,attack_msg_type_illuminating,std,0.4119982751678419
+Overall,,image_msg_type_illuminating,total_count,19009
+Overall,,image_msg_type_illuminating,non_null_count,19009
+Overall,,image_msg_type_illuminating,mean,0.14856120784891366
+Overall,,image_msg_type_illuminating,min,0.0
+Overall,,image_msg_type_illuminating,max,1.0
+Overall,,image_msg_type_illuminating,std,0.3556647719112419
+Overall,,cta_msg_type_illuminating,total_count,19009
+Overall,,cta_msg_type_illuminating,non_null_count,19009
+Overall,,cta_msg_type_illuminating,mean,0.1328318165079699
+Overall,,cta_msg_type_illuminating,min,0.0
+Overall,,cta_msg_type_illuminating,max,1.0
+Overall,,cta_msg_type_illuminating,std,0.3394018046223717
+Overall,,engagement_cta_subtype_illuminating,total_count,19009
+Overall,,engagement_cta_subtype_illuminating,non_null_count,19009
+Overall,,engagement_cta_subtype_illuminating,mean,0.0908517018254511
+Overall,,engagement_cta_subtype_illuminating,min,0.0
+Overall,,engagement_cta_subtype_illuminating,max,1.0
+Overall,,engagement_cta_subtype_illuminating,std,0.28740566368291404
+Overall,,fundraising_cta_subtype_illuminating,total_count,19009
+Overall,,fundraising_cta_subtype_illuminating,non_null_count,19009
+Overall,,fundraising_cta_subtype_illuminating,mean,0.01841233100110474
+Overall,,fundraising_cta_subtype_illuminating,min,0.0
+Overall,,fundraising_cta_subtype_illuminating,max,1.0
+Overall,,fundraising_cta_subtype_illuminating,std,0.13444057384240987
+Overall,,voting_cta_subtype_illuminating,total_count,19009
+Overall,,voting_cta_subtype_illuminating,non_null_count,19009
+Overall,,voting_cta_subtype_illuminating,mean,0.023409963701404597
+Overall,,voting_cta_subtype_illuminating,min,0.0
+Overall,,voting_cta_subtype_illuminating,max,1.0
+Overall,,voting_cta_subtype_illuminating,std,0.15120562176830252
+Overall,,covid_topic_illuminating,total_count,19009
+Overall,,covid_topic_illuminating,non_null_count,19009
+Overall,,covid_topic_illuminating,mean,0.05239623336314377
+Overall,,covid_topic_illuminating,min,0.0
+Overall,,covid_topic_illuminating,max,1.0
+Overall,,covid_topic_illuminating,std,0.22283060875079397
+Overall,,economy_topic_illuminating,total_count,19009
+Overall,,economy_topic_illuminating,non_null_count,19009
+Overall,,economy_topic_illuminating,mean,0.09037824188542269
+Overall,,economy_topic_illuminating,min,0.0
+Overall,,economy_topic_illuminating,max,1.0
+Overall,,economy_topic_illuminating,std,0.2867304314176825
+Overall,,education_topic_illuminating,total_count,19009
+Overall,,education_topic_illuminating,non_null_count,19009
+Overall,,education_topic_illuminating,mean,0.014992898100899574
+Overall,,education_topic_illuminating,min,0.0
+Overall,,education_topic_illuminating,max,1.0
+Overall,,education_topic_illuminating,std,0.12152731400515626
+Overall,,environment_topic_illuminating,total_count,19009
+Overall,,environment_topic_illuminating,non_null_count,19009
+Overall,,environment_topic_illuminating,mean,0.022252617181335158
+Overall,,environment_topic_illuminating,min,0.0
+Overall,,environment_topic_illuminating,max,1.0
+Overall,,environment_topic_illuminating,std,0.14750790777543615
+Overall,,foreign_policy_topic_illuminating,total_count,19009
+Overall,,foreign_policy_topic_illuminating,non_null_count,19009
+Overall,,foreign_policy_topic_illuminating,mean,0.03687726866221264
+Overall,,foreign_policy_topic_illuminating,min,0.0
+Overall,,foreign_policy_topic_illuminating,max,1.0
+Overall,,foreign_policy_topic_illuminating,std,0.18846539275137486
+Overall,,governance_topic_illuminating,total_count,19009
+Overall,,governance_topic_illuminating,non_null_count,19009
+Overall,,governance_topic_illuminating,mean,0.03109053606186543
+Overall,,governance_topic_illuminating,min,0.0
+Overall,,governance_topic_illuminating,max,1.0
+Overall,,governance_topic_illuminating,std,0.17356698831044248
+Overall,,health_topic_illuminating,total_count,19009
+Overall,,health_topic_illuminating,non_null_count,19009
+Overall,,health_topic_illuminating,mean,0.04866116050291967
+Overall,,health_topic_illuminating,min,0.0
+Overall,,health_topic_illuminating,max,1.0
+Overall,,health_topic_illuminating,std,0.2151643265574399
+Overall,,immigration_topic_illuminating,total_count,19009
+Overall,,immigration_topic_illuminating,non_null_count,19009
+Overall,,immigration_topic_illuminating,mean,0.04082276816244937
+Overall,,immigration_topic_illuminating,min,0.0
+Overall,,immigration_topic_illuminating,max,1.0
+Overall,,immigration_topic_illuminating,std,0.19788463748089133
+Overall,,lgbtq_issues_topic_illuminating,total_count,19009
+Overall,,lgbtq_issues_topic_illuminating,non_null_count,19009
+Overall,,lgbtq_issues_topic_illuminating,mean,0.0033668262402020096
+Overall,,lgbtq_issues_topic_illuminating,min,0.0
+Overall,,lgbtq_issues_topic_illuminating,max,1.0
+Overall,,lgbtq_issues_topic_illuminating,std,0.0579281214240242
+Overall,,military_topic_illuminating,total_count,19009
+Overall,,military_topic_illuminating,non_null_count,19009
+Overall,,military_topic_illuminating,mean,0.0055763059603345785
+Overall,,military_topic_illuminating,min,0.0
+Overall,,military_topic_illuminating,max,1.0
+Overall,,military_topic_illuminating,std,0.07446813078449072
+Overall,,race_and_ethnicity_topic_illuminating,total_count,19009
+Overall,,race_and_ethnicity_topic_illuminating,non_null_count,19009
+Overall,,race_and_ethnicity_topic_illuminating,mean,0.021568730601294123
+Overall,,race_and_ethnicity_topic_illuminating,min,0.0
+Overall,,race_and_ethnicity_topic_illuminating,max,1.0
+Overall,,race_and_ethnicity_topic_illuminating,std,0.14527432913517427
+Overall,,safety_topic_illuminating,total_count,19009
+Overall,,safety_topic_illuminating,non_null_count,19009
+Overall,,safety_topic_illuminating,mean,0.032195275921931714
+Overall,,safety_topic_illuminating,min,0.0
+Overall,,safety_topic_illuminating,max,1.0
+Overall,,safety_topic_illuminating,std,0.17652302788510535
+Overall,,social_and_cultural_topic_illuminating,total_count,19009
+Overall,,social_and_cultural_topic_illuminating,non_null_count,19009
+Overall,,social_and_cultural_topic_illuminating,mean,0.06170761218370246
+Overall,,social_and_cultural_topic_illuminating,min,0.0
+Overall,,social_and_cultural_topic_illuminating,max,1.0
+Overall,,social_and_cultural_topic_illuminating,std,0.24063006640218326
+Overall,,technology_and_privacy_topic_illuminating,total_count,19009
+Overall,,technology_and_privacy_topic_illuminating,non_null_count,19009
+Overall,,technology_and_privacy_topic_illuminating,mean,0.0020516597401230995
+Overall,,technology_and_privacy_topic_illuminating,min,0.0
+Overall,,technology_and_privacy_topic_illuminating,max,1.0
+Overall,,technology_and_privacy_topic_illuminating,std,0.04524995190747905
+Overall,,womens_issue_topic_illuminating,total_count,19009
+Overall,,womens_issue_topic_illuminating,non_null_count,19009
+Overall,,womens_issue_topic_illuminating,mean,0.0254616234415277
+Overall,,womens_issue_topic_illuminating,min,0.0
+Overall,,womens_issue_topic_illuminating,max,1.0
+Overall,,womens_issue_topic_illuminating,std,0.15752661549177788
+Overall,,incivility_illuminating,total_count,19009
+Overall,,incivility_illuminating,non_null_count,19009
+Overall,,incivility_illuminating,mean,0.1278867904676732
+Overall,,incivility_illuminating,min,0.0
+Overall,,incivility_illuminating,max,1.0
+Overall,,incivility_illuminating,std,0.3339724942470072
+Overall,,scam_illuminating,total_count,19009
+Overall,,scam_illuminating,non_null_count,18060
+Overall,,scam_illuminating,mean,0.020210409745293468
+Overall,,scam_illuminating,min,0.0
+Overall,,scam_illuminating,max,1.0
+Overall,,scam_illuminating,std,0.1407232944376072
+Overall,,freefair_illuminating,total_count,19009
+Overall,,freefair_illuminating,non_null_count,19009
+Overall,,freefair_illuminating,mean,0.0028407596401704457
+Overall,,freefair_illuminating,min,0.0
+Overall,,freefair_illuminating,max,1.0
+Overall,,freefair_illuminating,std,0.053224418747622244
+Overall,,fraud_illuminating,total_count,19009
+Overall,,fraud_illuminating,non_null_count,19009
+Overall,,fraud_illuminating,mean,0.00862749224051765
+Overall,,fraud_illuminating,min,0.0
+Overall,,fraud_illuminating,max,1.0
+Overall,,fraud_illuminating,std,0.09248518037867294
+Grouped_Facebook_Id,,GROUP_SUMMARY,num_groups,21
+Grouped_Facebook_Id,,GROUP_SUMMARY,group_size_min,22
+Grouped_Facebook_Id,,GROUP_SUMMARY,group_size_max,9013
+Grouped_Facebook_Id,,GROUP_SUMMARY,group_size_mean,905.1904761904761
+Grouped_Facebook_Id,,TOP_GROUPS,top_group_1,Facebook_Id=32fc18da91029ff09bf74fe9887eace6b5d2145809d583f696e344530508b064:9013
+Grouped_Facebook_Id,,TOP_GROUPS,top_group_2,Facebook_Id=bfe51c6ac2cab17ba5c85883e76f61398031ed57e4cf62d19fd483548ebb904b:1431
+Grouped_Facebook_Id,,TOP_GROUPS,top_group_3,Facebook_Id=ac24f31c4d4b3d5555065fa9558bdca4ab4b5e1379922875ae9e6e32f1d46d25:1231
+Grouped_Facebook_Id,,TOP_GROUPS,top_group_4,Facebook_Id=7f5731ac8e6959576e781064b5fa76e059200cdfc3f4e0d7b68bc98792d2cf5b:1158
+Grouped_Facebook_Id,,TOP_GROUPS,top_group_5,Facebook_Id=a3fa0d15dd83b910295d0b17f9d341e737eddcb8d9b8081758140584c710406e:1074
+Grouped_Facebook_Id,,Total Interactions,group_means_count,21
+Grouped_Facebook_Id,,Total Interactions,group_means_mean,5947.387635425277
+Grouped_Facebook_Id,,Total Interactions,group_means_min,15.08695652173913
+Grouped_Facebook_Id,,Total Interactions,group_means_max,64981.01158301158
+Grouped_Facebook_Id,,Likes,group_means_count,21
+Grouped_Facebook_Id,,Likes,group_means_mean,3146.5396531193364
+Grouped_Facebook_Id,,Likes,group_means_min,6.260869565217392
+Grouped_Facebook_Id,,Likes,group_means_max,39394.8474025974
+Grouped_Facebook_Id,,Comments,group_means_count,21
+Grouped_Facebook_Id,,Comments,group_means_mean,1170.7547957427896
+Grouped_Facebook_Id,,Comments,group_means_min,3.8260869565217392
+Grouped_Facebook_Id,,Comments,group_means_max,13920.444805194806
+Grouped_Facebook_Id,,Shares,group_means_count,21
+Grouped_Facebook_Id,,Shares,group_means_mean,394.78805635351523
+Grouped_Facebook_Id,,Shares,group_means_min,0.4782608695652174
+Grouped_Facebook_Id,,Shares,group_means_max,4835.732142857143
+Grouped_Facebook_Id,,Post Views,group_means_count,20
+Grouped_Facebook_Id,,Post Views,group_means_mean,12488.192080094434
+Grouped_Facebook_Id,,Post Views,group_means_min,7.608695652173913
+Grouped_Facebook_Id,,Post Views,group_means_max,172083.19832402235
+Grouped_Facebook_Id,,Total Views,group_means_count,20
+Grouped_Facebook_Id,,Total Views,group_means_mean,13839.419344493965
+Grouped_Facebook_Id,,Total Views,group_means_min,8.869565217391305
+Grouped_Facebook_Id,,Total Views,group_means_max,186387.5782122905
+Grouped_Facebook_Id + post_id,,GROUP_SUMMARY,num_groups,19009
+Grouped_Facebook_Id + post_id,,GROUP_SUMMARY,group_size_min,1
+Grouped_Facebook_Id + post_id,,GROUP_SUMMARY,group_size_max,1
+Grouped_Facebook_Id + post_id,,GROUP_SUMMARY,group_size_mean,1.0
+Grouped_Facebook_Id + post_id,,TOP_GROUPS,top_group_1,Facebook_Id=a6cb7db6850459b954f7272e14d770617022639f8847cf25e6859b9453a03813 | post_id=8570b69695e00d8f06b12398ed525497e1712b5369c6fc2138fe98f69811c138:1
+Grouped_Facebook_Id + post_id,,TOP_GROUPS,top_group_2,Facebook_Id=a6cb7db6850459b954f7272e14d770617022639f8847cf25e6859b9453a03813 | post_id=41ec27cecd8af40007a9faf8c3e5c9225bcff0b8d58856563bbc9d59d7dbb6e6:1
+Grouped_Facebook_Id + post_id,,TOP_GROUPS,top_group_3,Facebook_Id=a6cb7db6850459b954f7272e14d770617022639f8847cf25e6859b9453a03813 | post_id=1dcb5e00cd1c8d7ee141922f50f29e59e96328231b6937870e87029c97b26377:1
+Grouped_Facebook_Id + post_id,,TOP_GROUPS,top_group_4,Facebook_Id=a6cb7db6850459b954f7272e14d770617022639f8847cf25e6859b9453a03813 | post_id=3e5e0a047865ab02fe0f49c343963239fe7774b63e8ab6001b6ec18f4d37eeac:1
+Grouped_Facebook_Id + post_id,,TOP_GROUPS,top_group_5,Facebook_Id=7ec2cb4abf8effe3d91de57944c56b938b4f33059a6e33dfe23b549cf229989a | post_id=b83adc0e8ac0aedd39f55b72d723729e114a83d41fd48b1b13c7ec782c9a0649:1
+Grouped_Facebook_Id + post_id,,Total Interactions,group_means_count,14398
+Grouped_Facebook_Id + post_id,,Total Interactions,group_means_mean,2210.154813168496
+Grouped_Facebook_Id + post_id,,Total Interactions,group_means_min,0.0
+Grouped_Facebook_Id + post_id,,Total Interactions,group_means_max,470087.0
+Grouped_Facebook_Id + post_id,,Likes,group_means_count,19009
+Grouped_Facebook_Id + post_id,,Likes,group_means_mean,2377.6954074385817
+Grouped_Facebook_Id + post_id,,Likes,group_means_min,0.0
+Grouped_Facebook_Id + post_id,,Likes,group_means_max,351979.0
+Grouped_Facebook_Id + post_id,,Comments,group_means_count,19009
+Grouped_Facebook_Id + post_id,,Comments,group_means_mean,901.583197432795
+Grouped_Facebook_Id + post_id,,Comments,group_means_min,0.0
+Grouped_Facebook_Id + post_id,,Comments,group_means_max,93872.0
+Grouped_Facebook_Id + post_id,,Shares,group_means_count,19009
+Grouped_Facebook_Id + post_id,,Shares,group_means_mean,320.53895523173236
+Grouped_Facebook_Id + post_id,,Shares,group_means_min,0.0
+Grouped_Facebook_Id + post_id,,Shares,group_means_max,76150.0
+Grouped_Facebook_Id + post_id,,Post Views,group_means_count,16544
+Grouped_Facebook_Id + post_id,,Post Views,group_means_mean,6485.058510638298
+Grouped_Facebook_Id + post_id,,Post Views,group_means_min,0.0
+Grouped_Facebook_Id + post_id,,Post Views,group_means_max,4276477.0
+Grouped_Facebook_Id + post_id,,Total Views,group_means_count,16544
+Grouped_Facebook_Id + post_id,,Total Views,group_means_mean,7461.847014023211
+Grouped_Facebook_Id + post_id,,Total Views,group_means_min,0.0
+Grouped_Facebook_Id + post_id,,Total Views,group_means_max,4462155.0
